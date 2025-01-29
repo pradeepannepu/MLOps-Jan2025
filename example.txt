@@ -1,1 +1,2 @@
 this is not lorem ipsum as we replaced in this branch
+this is new text in zero branch and not lorem
